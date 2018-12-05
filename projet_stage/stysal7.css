@@ -1,0 +1,190 @@
+#menu ul
+{
+  
+  background-color: rgb(0,255,255);
+  font-size: 1.3em;
+  border: 1px solid black;
+  width: 670px;
+
+
+
+
+}
+#menu li
+{
+  display: inline;
+  margin-left: 12%;
+  position: relative;
+  top:15px;
+  
+  
+}
+#menu a:focus
+{
+  background-color: red;
+  color: yellow;
+  
+}
+#menu a:visited
+{
+  background-color: red;
+  color: yellow;
+  
+}
+#menu li :hover
+{
+  text-decoration: underline;
+  color: black;
+}
+#menu a
+{
+  text-decoration: none;
+  color: rgba(0,0,0,0.5);
+  
+
+}
+#menu
+{
+  display: flex;
+}
+#log
+{
+  height: 100px;
+}
+body
+{
+width: 80%;
+margin-left: 5%;
+margin-right:5%;
+}
+footer 
+{
+  width: 690px;
+  
+  background-color: rgba(0,255,255,0.6);
+  margin-left: 10%;
+
+}
+footer a,li
+{
+  display: inline;
+  text-decoration: none;
+  margin-left:5%;
+}
+footer p
+{
+  padding-left: 20%;
+  
+  padding-right: 10%;
+}
+#logo
+{
+  display: inline;
+
+}
+
+ .text
+{
+  width: 50%;
+  height: 30px;
+  border: 2px solid blue;
+  border-radius: 0.4em;
+  margin-left: 5%;
+
+}
+.nom1
+{
+  margin-right: 20%;
+}
+
+.prenom1
+{
+  margin-right: 18.5%;
+}
+.email1
+{
+  margin-right: 20%;
+}
+.titre1
+{
+  margin-right: 11%;
+}
+.adresse1
+{
+  margin-right: 18.5%;
+}
+
+.tel1
+{
+  margin-right: 20%;
+}
+.salle1
+{
+  margin-right: 20%;
+}
+
+.dateeee
+{
+  width: 20%;
+  height: 25px;
+  border: 2px solid blue;
+  border-radius: 0.2em;
+  margin-left: 5%;
+}
+.date1
+{
+  margin-right: 15.5%;
+}
+
+
+#butt
+{
+  margin-left: 52%;
+  border: 1px solid blue;
+  border-radius: 0.2em;
+  width: 9%;
+}
+form
+{
+  margin-left: 5%;
+  
+}
+table
+{
+  border-collapse: collapse;
+  margin-left: 10%;
+}
+a
+{
+  margin-left: 30%;
+  text-decoration: none;
+  font-size: 1.8em;
+}
+
+td
+{
+  border:1px solid blue;
+  width: 200px;
+    height: 20px;
+}
+h1
+{
+  margin-left: 40%;
+}
+
+h2,h3
+{
+  margin-left: 30%;
+
+}
+h4
+{
+  margin-left: 20%;
+}
+
+textarea
+{
+  border: 2px solid blue;
+  border-radius: 0.4em;
+  margin-left: 30%;
+}
