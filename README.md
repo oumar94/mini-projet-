@@ -1,2 +1,2 @@
-# mini-projet-
-il s'agit du  mini-projet du drone parrot SUMO 
+# projet de stage
+Il s'agit de mon projet de stage d'observation.
